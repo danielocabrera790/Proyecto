@@ -7,7 +7,7 @@ Instalacion de un S.O (ubuntu o debian) en la raspberry
 ## Indice
 1. [Introduccion](https://github.com/danielocabrera790/introduccion/blob/main/introduccion.md)
 2. [Instalacion](https://github.com/danielocabrera790/instalacion/blob/main/instalacion.md)
-3. [utilizacion](https://github.com/danielocabrera790/utilizacion/blob/main/utilizacion.md)
+3. [Utilizacion](https://github.com/danielocabrera790/utilizacion/blob/main/utilizacion.md)
 5. Conclusiones
 
 Trabajo hecho por: Daniel Cabrera Morales
